@@ -12,7 +12,6 @@ surge_ruleset=Others,[]MATCH
 custom_proxy_group=Proxy`select`.*
 custom_proxy_group=Domestic`select`[]DIRECT`[]Proxy`.*
 custom_proxy_group=AsianTV`select`[]DIRECT`[]Domestic`[]Proxy`.*
-custom_proxy_group=Netease Music`select`[]DIRECT`[]Domestic`[]Proxy`.*
 custom_proxy_group=GlobalTV`select`[]Proxy`.*
 custom_proxy_group=Others`select`[]Proxy`[]DIRECT`.*
 ;设置分组标志位
